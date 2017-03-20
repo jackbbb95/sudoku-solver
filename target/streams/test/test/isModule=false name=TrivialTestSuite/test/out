@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0m[32mTrivialTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- The solution object must be defined[0m[0m
+[0m[[0minfo[0m] [0m[32m- Basic Solution Tests[0m[0m
+[0m[[0minfo[0m] [0m[32m- Board Test 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- Board Test 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- Board Test 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- Board Test 4[0m[0m
+[0m[[0minfo[0m] [0m[32m- Board Test 5[0m[0m
+[0m[[0minfo[0m] [0m[32m- Intense test -> 6 Boards[0m[0m
+[0m[[0minfo[0m] [0m[32m- Piazza Boards[0m[0m
+[0m[[0minfo[0m] [0m[32m- Place Test[0m[0m
+[0m[[0minfo[0m] [0m[32m- NextStates Test[0m[0m
+[0m[[0minfo[0m] [0m[32m- ValueAt Test[0m[0m
